@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHRISTMAS IS COMING</title>
+</head>
+<body style="background-image: url(bg.jpg); background-repeat: repeat-x; padding:10px; background-color:black; ">
+    <h1 style="text-align: center; color:goldenrod">Merry Christmas!</h1>
+    <div font size="2" font face="Garamond" style="text-align: center;">
+        <pre style="display: inline-block; text-align: left; color:sandybrown;">
+        No more champagne
+        And the fireworks are through
+        Here we are, me and you
+        Feeling lost and feeling blue
+        It's the end of the party
+        And the morning seems so grey
+        So unlike yesterday
+        Now's the time for us to say:
+        
+        Happy New Year
+        Happy New Year
+        May we all have a vision now and then
+        Of a world where every neighbor is a friend
+        Happy New Year
+        Happy New Year
+        May we all have our hopes, our will to try
+        If we don't we might as well lay down and die
+        You and I </br>
+    <dfn>ABBA - Happy New Year</dfn></pre><br>
+    </div>
+    <br>
+    <table align="center">
+    <tr><td><img src="1.jpg" alt="champagne" title="champagne"></td>
+    <td><img src="2.jpg" alt="happy new year" title="happy new year"></td>
+    <td><img src="3.jpg" alt="happy people" title="happy people"></td></tr>
+    </table>
+<i style="color:orange;"><center>Shitty pictures INC.<sup><sup>TM</sup></sup></center></body>
+</html>
